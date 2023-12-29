@@ -1,9 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# login-register-page
+https://github.com/hilalkrglmz/login-register-page/assets/140657703/776181d5-737c-492f-a5bc-faea2472d9db
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1>Login/Register Page using with Firebase</h1>
+    </header>
+    <div class="container">
+        <h2>About Project</h2>
+            <ul>
+                <li>React</li>
+                <li>Firebase</li>
+                <li>React-router-dom</li>
+                <li>React-hot-toast</li>
+                <li>Tailwind</li>
+                </ul>
+            <h2>SETUP and USE</h2>
+        <ol>
+            <li>Clone the project on your computer: <code>git clone https://github.com/hilalkrglmz/login-register-page/edit/edit/main</code></li>
+            <li>Go to the project folder: <code>cd login-register-page/</code></li>
+            <li>Open the project in your browser: <code>index.html</code></li>
+        </ol>
+    </div>
+</body>
+</html>
